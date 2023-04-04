@@ -82,7 +82,7 @@ python3 plot_pid.py
 
 ## Results
 ### Carla simulator
-![CarlaSimulator](project/pid_controller/screenshot/carla_screenshot.png)
+![CarlaSimulator](images/carla_screenshot.png)
 
 ### Video of PID controller in Carla simulator
 https://user-images.githubusercontent.com/25489053/172026600-b1de17f8-8d45-495e-b48d-0016873e08cd.mov
