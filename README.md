@@ -8,9 +8,6 @@ In this project, a self-designed PID controller is implemented to perform vehicl
 
 Run the following commands to install the starter code in the Udacity Workspace:
 
-Clone the <a href="https://github.com/udacity/nd013-c6-control-starter/tree/master" target="_blank">repository</a>:
-
-`git clone https://github.com/udacity/nd013-c6-control-starter.git`
 
 ## Run Carla Simulator
 
