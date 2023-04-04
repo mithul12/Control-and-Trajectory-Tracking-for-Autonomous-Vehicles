@@ -105,13 +105,13 @@ https://user-images.githubusercontent.com/25489053/172026600-b1de17f8-8d45-495e-
 |TEST|STEER|THROTTLE|
 |:--:|:---:|:------:|
 Reference|![reference1](images/Figure_1.png)| ![reference2](images/Figure_2.png)
-Test 1|![test1_pic1](project/pid_controller/screenshot/test1_pic1.png) | ![test1_pic2](project/pid_controller/screenshot/test1_pic2.png)
-Test 2|![test2_pic1](project/pid_controller/screenshot/test2_pic1.png) | ![test2_pic2](project/pid_controller/screenshot/test2_pic2.png)
-Test 3|![test3_pic1](project/pid_controller/screenshot/test3_pic1.png) | ![test3_pic2](project/pid_controller/screenshot/test3_pic2.png)
-Test 4|![test4_pic1](project/pid_controller/screenshot/test4_pic1.png) | ![test4_pic2](project/pid_controller/screenshot/test4_pic2.png)
-Test 5|![test5_pic1](project/pid_controller/screenshot/test5_pic1.png) | ![test5_pic2](project/pid_controller/screenshot/test5_pic2.png)
-Test 6|![test6_pic1](project/pid_controller/screenshot/test6_pic1.png) | ![test6_pic2](project/pid_controller/screenshot/test6_pic2.png)
-Test 7|![test7_pic1](project/pid_controller/screenshot/test7_pic1.png) | ![test7_pic2](project/pid_controller/screenshot/test7_pic2.png)
+Test 1|![test1_pic1](images/test1_pic1.png) | ![test1_pic2](images/test1_pic2.png)
+Test 2|![test2_pic1](images/test2_pic1.png) | ![test2_pic2](images/test2_pic2.png)
+Test 3|![test3_pic1](images/test3_pic1.png) | ![test3_pic2](images/test3_pic2.png)
+Test 4|![test4_pic1](images/test4_pic1.png) | ![test4_pic2](images/test4_pic2.png)
+Test 5|![test5_pic1](images/test5_pic1.png) | ![test5_pic2](images/test5_pic2.png)
+Test 6|![test6_pic1](images/test6_pic1.png) | ![test6_pic2](images/test6_pic2.png)
+Test 7|![test7_pic1](images/test7_pic1.png) | ![test7_pic2](images/test7_pic2.png)
 
 ### Observation
 - By comparing the plots of reference test with other tests, we can see that increasing `K_I` and `K_D` significantly reduces the steer errors and throttle errors.
