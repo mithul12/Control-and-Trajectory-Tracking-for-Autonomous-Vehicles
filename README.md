@@ -104,7 +104,7 @@ https://user-images.githubusercontent.com/25489053/172026600-b1de17f8-8d45-495e-
 ### Plots
 |TEST|STEER|THROTTLE|
 |:--:|:---:|:------:|
-Reference|![reference1](project/pid_controller/screenshot/Figure_1.png)| ![reference2](project/pid_controller/screenshot/Figure_2.png)
+Reference|![reference1](project/pid controller/screenshot/Figure_1.png)| ![reference2](project/pid_controller/screenshot/Figure_2.png)
 Test 1|![test1_pic1](project/pid_controller/screenshot/test1_pic1.png) | ![test1_pic2](project/pid_controller/screenshot/test1_pic2.png)
 Test 2|![test2_pic1](project/pid_controller/screenshot/test2_pic1.png) | ![test2_pic2](project/pid_controller/screenshot/test2_pic2.png)
 Test 3|![test3_pic1](project/pid_controller/screenshot/test3_pic1.png) | ![test3_pic2](project/pid_controller/screenshot/test3_pic2.png)
